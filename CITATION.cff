@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Nuclear-pore-component-diameter-simulation (MATLAB utilities)"
+type: software
+authors:
+  - family-names: Lee
+    given-names: Seoungjun
+version: 0.1.0
+date-released: 2026-03-03
+license: MIT
+keywords:
+  - MATLAB
+  - nuclear pore complex
+  - simulation
+  - SSIM
+  - heatmap
+repository-code: "https://github.com/MizielinskaLab/Nuclear-pore-component-diameter-simulation"
