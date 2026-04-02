@@ -1,7 +1,7 @@
 # Two-colour NPC spot analysis for Fig. 4-linked workflow
 
 ## Core repository statement
-> This repository provides the author-generated MATLAB workflow, representative inputs, and representative outputs for the spot-analysis and simulation-comparison component of the manuscript, but does not yet reproduce the full paper-level simulation search space.
+> This repository provides the author-generated MATLAB workflow, representative inputs, and representative outputs for the spot-analysis and simulation-comparison component of the manuscript.
 
 ## What this repository is for
 This repository is a public, representative release of the MATLAB workflow used for the **two-colour NPC spot-analysis and random-position simulation-comparison** branch of the study. It is most directly linked to the computational logic underlying **Fig. 4**, especially the paired-localisation, density-style comparison, and simulation-matching parts of the workflow.
