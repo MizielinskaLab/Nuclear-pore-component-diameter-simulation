@@ -34,12 +34,12 @@ This is therefore a **worked example package** for the Fig. 4-linked analysis br
 This repository is linked to the **spot-analysis and simulation-comparison workflow associated with Fig. 4**.
 
 In practical terms:
-- the experimental branch starts from microscopy images, ROI definition, and TrackMate XML spot export;
-- MATLAB is then used to calculate spot number, density, intensity, inter-spot distance, and two-colour matching summaries;
-- the simulation branch analyses representative random-position localisation files using the same style of downstream summaries; and
-- study-level comparison is then made by comparing experimental and simulated distributions, including density-style outputs and similarity-based comparison.
+- the experimental branch starts from microscopy images, ROI definition, and TrackMate XML spot export
+- MATLAB is then used to calculate spot number, density, intensity, inter-spot distance, and two-colour matching summaries
+- the simulation analyses representative random-position localisation files
+- Then, comparing experimental and simulated distributions, including density outputs and similarity-based comparison.
 
-This public package contains **one representative worked example** for each branch. The broader manuscript-level comparison required many additional image-analysis inputs and many additional random-position simulations beyond what is included here.
+This public package contains **one representative worked example** . The manuscript-level comparison may require many additional image-analysis inputs and random-position simulations beyond what is included here.
 
 ## Software used
 This workflow uses **ImageJ/FIJI first**, followed by **MATLAB**.
