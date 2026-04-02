@@ -145,8 +145,8 @@ The code can be run on a normal desktop computer.
 
 ## Typical setup and runing time
 
-Typical setup time is about 30 minutes, excluding installation of MATLAB/FIJI
-On a normal desktop computer, it takes about 5–10 minutes.
+- Typical setup time is about 30 minutes, excluding installation of MATLAB/FIJI
+- On a normal desktop computer, it takes about 5–10 minutes.
 
 ## Usage note
 Please see `LICENSE_NOTE.md` for the public-use terms for the author-generated code and example data included in this repository.
