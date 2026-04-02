@@ -39,7 +39,7 @@ In practical terms:
 - the simulation analyses representative random-position localisation files
 - Then, comparing experimental and simulated distributions, including density outputs and similarity-based comparison.
 
-This public package contains **one representative worked example** . The manuscript-level comparison may require many additional image-analysis inputs and random-position simulations beyond what is included here.
+This public package contains **one representative worked example** . The manuscript-level comparison may require many additional image-analysis inputs and random-position simulations.
 
 ## Software used
 This workflow uses **ImageJ/FIJI first**, followed by **MATLAB**.
