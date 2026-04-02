@@ -1,0 +1,3 @@
+Row|fix_number|mismatching_number|mismatching_percentage
+FR_search__GR_fix|151956|8158|5.36865934875885
+GR_search__FR_fix|151956|8158|5.36865934875885
