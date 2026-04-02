@@ -4,14 +4,14 @@
 > This repository provides the author-generated MATLAB workflow, representative inputs, and representative outputs for the spot-analysis and simulation-comparison component of the manuscript.
 
 ## What this repository is for
-This repository is a public, representative release of the MATLAB workflow used for the **two-colour NPC spot-analysis and random-position simulation-comparison** branch of the study. It is most directly linked to the computational logic underlying **Fig. 4**, especially the paired-localisation, density-style comparison, and simulation-matching parts of the workflow.
+This repository is a public, representative release of the MATLAB workflow used for the **two-colour NPC spot-analysis and random-position simulation-comparison** branch of the study. It is most directly linked to the underlying **Fig. 4**, especially the paired-localisation, density comparison, and simulation-matching of the workflow.
 
 The repository is intended to show:
 - how microscopy-derived two-colour spot data are prepared and analysed;
 - how representative random-position simulation inputs are analysed with the same style of distance and density summaries; and
 - how the experimental and simulated outputs are compared in the framework used for the study.
 
-This is therefore a **worked example package** for the Fig. 4-linked analysis branch. It is not a complete rebuild of the full manuscript workflow and it does not contain the full paper-level simulation search space.
+This is therefore a **worked example package** for the Fig. 4-linked analysis branch.
 
 ## Repository contents
 - `src/` — MATLAB scripts and functions.
