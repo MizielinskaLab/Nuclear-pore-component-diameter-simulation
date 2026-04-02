@@ -139,6 +139,14 @@ It does **not** yet include:
 5. Run `src/run_simulation_batch.m` for the simulation example.
 6. Inspect the exported results in `results/`.
 
+## Any required non-standard hardware
+
+The code can be run on a normal desktop computer.
+
+## Typical setup
+
+Typical setup time is about 30 minutes, excluding installation of MATLAB/FIJI
+
 ## Usage note
 Please see `LICENSE_NOTE.md` for the public-use terms for the author-generated code and example data included in this repository.
 
