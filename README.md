@@ -1,4 +1,4 @@
-# Two-colour NPC spot analysis for Fig. 4-linked workflow
+# Nulcear pore compement diamter simulation and analysis for Fig. 4-linked workflow
 
 ## Core repository statement
 > This repository provides the author-generated MATLAB workflow, representative inputs, and representative outputs for the spot-analysis and simulation-comparison component of the manuscript.
