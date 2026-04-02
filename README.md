@@ -127,11 +127,9 @@ See:
 This repository demonstrates the analysis structure with representative inputs and representative outputs. It supports a **tested worked example** for the Fig. 4-linked computational branch.
 
 It does **not** yet include:
-- the full paper-level simulation search space;
-- the full set of image-analysis inputs used across all conditions in the study; or
-- a single one-click reconstruction of the entire figure and manuscript output.
-
-The full study-level simulation search described in the original workflow note involved **100,000+ simulations**. That larger search space is not bundled here.
+- the full paper-level simulation
+- the full set of image-analysis inputs used across all conditions in the study
+- a reconstruction of the entire figure and manuscript output
 
 ## Quick start
 1. Download the required third-party files and place them in `third_party/`.
